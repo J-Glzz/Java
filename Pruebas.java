@@ -27,7 +27,7 @@ public class Pruebas{
         System.out.print(msj);
     }
     public static void defM(){
-        Moto newMoto = new Moto(2, 150, "Yamaha", "Blanco", "Deportiva");
+        Moto newMoto = new Moto(2, 150, "Yamaha", "Azul/negro", "Deportiva");
         System.out.println(newMoto.getMarca());
         System.out.println(newMoto.getCilindraje());
         System.out.println(newMoto.getNumeroRuedas());
