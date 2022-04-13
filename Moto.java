@@ -7,6 +7,8 @@ El objetivo es que el programa sea modular, en pocas palabras
 que el programa tengo un bajo nivel de acoplamiento y un alto nivel
 de cohesión. Entonces para que quede más claro, debe relacionarse poco
 (bajo acoplamiento) y hacer solo una cosa de manera correcta (alta cohesión).
+Con definir el constructor, ya no se tienen que poner los Setters, porque
+como lo mencionó, ya se define el constructor
 */
 public class Moto {
     private int numeroRuedas;
