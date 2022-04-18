@@ -1,6 +1,6 @@
 package semana1.practicaPOO;
 /*
-* AquÍ se está utilizando el redefinir o mejor dicho OVERRIDE
+* Aquí se está utilizando el redefinir o mejor dicho OVERRIDE
 */
 class Persona{
     int edad;
